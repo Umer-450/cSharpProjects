@@ -1,0 +1,15 @@
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/bin/Debug/net6.0/assignment4-2_for
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/bin/Debug/net6.0/assignment4-2_for.deps.json
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/bin/Debug/net6.0/assignment4-2_for.runtimeconfig.json
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/bin/Debug/net6.0/assignment4-2_for.dll
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/bin/Debug/net6.0/assignment4-2_for.pdb
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.csproj.AssemblyReference.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.AssemblyInfoInputs.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.AssemblyInfo.cs
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.csproj.CoreCompileInputs.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.dll
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/refint/assignment4-2_for.dll
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.pdb
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/assignment4-2_for.genruntimeconfig.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/obj/Debug/net6.0/ref/assignment4-2_for.dll

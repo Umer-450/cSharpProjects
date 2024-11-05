@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kqlwl76LmT8nrc2yfNL4XquE0bZLYf8EIOFoJMCrZttxNkAYlIpaXoLwIPrHU8sParUhcgBOPiO5WLpN2NqIVg==",
+  "success": true,
+  "projectFilePath": "/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-2_for/assignment4-2_for.csproj",
+  "expectedPackageFiles": [
+    "/Users/swifty/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

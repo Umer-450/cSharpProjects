@@ -1,0 +1,15 @@
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/bin/Debug/net6.0/assignment4-1_while
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/bin/Debug/net6.0/assignment4-1_while.deps.json
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/bin/Debug/net6.0/assignment4-1_while.runtimeconfig.json
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/bin/Debug/net6.0/assignment4-1_while.dll
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/bin/Debug/net6.0/assignment4-1_while.pdb
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.csproj.AssemblyReference.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.AssemblyInfoInputs.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.AssemblyInfo.cs
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.csproj.CoreCompileInputs.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.dll
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/refint/assignment4-1_while.dll
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.pdb
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/assignment4-1_while.genruntimeconfig.cache
+/Users/swifty/Documents/learning/centennialCollege/programming1COMP100/code/labWork/week2/COMP100/assignment4-1_while/obj/Debug/net6.0/ref/assignment4-1_while.dll
